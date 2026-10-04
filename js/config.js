@@ -20,7 +20,7 @@ window.SITE = {
         "Calidad de canales ESTÁNDAR",
         "Mínimo de internet: 20 megas o más (si hay muchos dispositivos en su hogar se recomiendan más megas)",
         "Canales funcionales sin cortes" ] },
-    { id: "flujo", name: "Flujo TV", price: "$11.200", logo: "img/flujo.jpg",
+    { id: "flujo", name: "Flujo TV", price: "$10.000", logo: "img/flujo.jpg",
       downloader: "3627194", video: "videos/flujo_video.mp4", mobileLink: "https://da.gd/f1ViQ",
       features: [
         "Muchas series y películas",
