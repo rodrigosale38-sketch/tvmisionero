@@ -32,7 +32,7 @@ window.SITE = {
         "Mínimo de internet: 15 megas o más (si hay muchos dispositivos en su hogar se recomiendan más megas)",
         "!Algunos canales se cortan por momentos (Telefe es uno de ellos)" ] },
     { id: "femon", name: "Femon Plus", price: "$8.000", logo: "img/femon.svg",
-      downloader: "5965230", video: "videos/femon_video.mp4", mobileLink: "https://app.femon.net/femonplus/descargas/femonappplus.html",
+      downloader: "5065230", video: "videos/femon_video.mp4", mobileLink: "https://app.femon.net/femonplus/descargas/femonappplus.html",
       features: [
         "Canales de TV, deportes y pack fútbol",
         "Delay de 2 segundos",
